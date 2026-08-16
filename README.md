@@ -10,9 +10,7 @@ The dashboard provides an easy-to-understand overview of business performance th
 
 ## 🖼️ Dashboard Preview
 
-![Power BI Sales & Profit Dashboard](Screenshot 2026-08-16 145304.png
-)
-
+![E Commerce Dashboard](Screenshot%202026-08-16%20145304.png)
 ---
 
 ## 📂 Datasets Used
